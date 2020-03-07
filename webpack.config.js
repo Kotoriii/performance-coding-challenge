@@ -1,4 +1,5 @@
 const path = require('path');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 module.exports = {
   entry: './src/js/index.js',
@@ -25,9 +26,22 @@ module.exports = {
       test: /\.(svg|jpg)$/,
       use: [
         'file-loader',
-      ],
+        {
+          loader: 'image-webpack-loader',
+          options: {
+            mozjpeg: {
+              progressive: true,
+              quality: 65
+            }
+          }
+        }
+      ]
     },
     ],
+  },
+
+  optimization: {
+    minimizer: [new UglifyJsPlugin()],
   },
 
   mode: 'development'

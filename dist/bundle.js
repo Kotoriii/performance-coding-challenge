@@ -239,7 +239,7 @@ eval("var api = __webpack_require__(/*! ../../node_modules/style-loader/dist/run
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"d23705a94ea1a4076f47c6a4751aa5b5.svg\");\n\n//# sourceURL=webpack:///./src/img/dog-logo.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"1e3a9bb0ec4d8fa48294126620497a96.svg\");\n\n//# sourceURL=webpack:///./src/img/dog-logo.svg?");
 
 /***/ }),
 
@@ -251,7 +251,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"164649777bd5b17fa18bacb91b010938.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"ba6b560da8a31f1ccf34c16cfc98d58e.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog1.jpg?");
 
 /***/ }),
 
@@ -263,7 +263,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"d2d8b563ad2b529f820c8e1cc2c8ffdb.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog2.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"2e348c6563c93f8acc1989261baad9e0.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog2.jpg?");
 
 /***/ }),
 
@@ -275,7 +275,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"b88fa6ddc8e5f5fa21dc7f13cfae46ec.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog3.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"b604ffbe13a6875717141c4c0b2d311f.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog3.jpg?");
 
 /***/ }),
 
@@ -287,7 +287,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"572314f4dd8e8c54d876fa420c4453f5.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog4.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"88a93bbbd16b9392d8a7e2a47f2f476b.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog4.jpg?");
 
 /***/ }),
 
@@ -299,7 +299,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"35b752b4ad2b2cda2bf15bc3aa7b5a34.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog5.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"b9f067ebd0e4c4ab2485c379431638aa.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog5.jpg?");
 
 /***/ }),
 
@@ -311,7 +311,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"4fe49a15943553d0dc76862188c58e6f.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog6.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"823d855e0eb7d720038f5684c508de05.jpg\");\n\n//# sourceURL=webpack:///./src/img/dog6.jpg?");
 
 /***/ }),
 
@@ -323,7 +323,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"0efd138d9334868c918ba8768ae642a5.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot1.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"5fd22377c98036e191b868d8e0e79f29.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot1.jpg?");
 
 /***/ }),
 
@@ -335,7 +335,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"1419e5101c3e53c158f6b7b09b2c172c.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot2.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"7bf2071ed9ce3e1e2b296abaf4c210fd.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot2.jpg?");
 
 /***/ }),
 
@@ -347,7 +347,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"aa1853fb1db8579c1064d29d6f1769ac.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot3.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"03190e81ab8e86ae65ec7f12b5f38edf.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot3.jpg?");
 
 /***/ }),
 
@@ -359,7 +359,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"2a012e235a8cba33331a1041c4ea90db.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot4.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"dbacc37e61a90d7beee61be34625f098.jpg\");\n\n//# sourceURL=webpack:///./src/img/snoot4.jpg?");
 
 /***/ }),
 
