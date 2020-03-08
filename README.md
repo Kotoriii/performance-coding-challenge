@@ -1,3 +1,33 @@
+# Comments by Christian
+
+Just run
+
+`npm install`
+`npm run start`
+And visit `localhost:8080`
+
+Overall, I think I achieved most of the results you were looking for. However, there are a few things I know I should have accomplished (and tried!) but failed due to various reasons (mostly Webpack not wanting to work with me =(). In the end, after about 4-5 hours of work time, I decided to submit the current solution.
+
+## Cloned repo audit results
+![](screenshots/before.png)
+
+## After task completion audit results
+![](screenshots/after.png)
+
+## Vital things I think I missed
+Dev and prod webpack settings + webpack-dev-server. I had created a common webpack config, and merged this with a dev and a prod config respectively, with prod adding css minification, source mapping and a more aggressive JS uglifier. However, the builds started to fail for some reason and webpack-dev-server made my life miserable, as the index file suddenly couldn't find the `bundle.js` file, or then it couldn't find the `index.html` file, or the images were not found with the source-mapping, etc. This was very frustrating and I tried, but in the end I decided to at least make it work somehow.
+
+## Things I could have improved
+- Using babel loader to use ES6
+- Using React to make the process more streamlined?
+- Somehow use the image imported names dynamically to add `src` to images (see commented code in `index.js`)
+- Bonus task: I thought about using `will-transform` in css, `lazy-loading` and playing with `requestAnimationFrame()` with vanilla JS, but that would have cost much time
+- Also make the Google Font part of the `dist`
+
+I hope you will find the work acceptable, despite the shortcomings. I must admit tinkering with Webpack is not my specialty, but rather "real" coding of sites, javascript, calling APIs, etc.
+
+Thank you for the opportunity!
+
 # Website Performance Challenge
 The purpose of this project is to evaluate your ability to optimize a simple webpage for performance.  
 We recommend using Google Chrome's auditing tool ([Lighthouse](https://developers.google.com/web/tools/lighthouse)) in order to identify painpoints and track your progress.
